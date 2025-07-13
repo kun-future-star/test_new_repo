@@ -2,6 +2,6 @@
 int main()
 {
 	printf("hello world siri\n");
-	int x = 10;
+	int xx = 1000;
 	return 0;
 }
