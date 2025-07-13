@@ -5,3 +5,9 @@ int main()
 	int xx = 1000;
 	return 0;
 }
+
+int fun()
+{
+	
+}
+
